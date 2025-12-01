@@ -10,5 +10,5 @@ I am a student interested in cybersecurity, cryptography, and software developme
 I enjoy learning in general from all aspects in technology and outside technology.
 
 ## Links
-- [My GitHub] https://github.com/RivaldoMy
+- [My GitHub] https://rivaldomy.github.io/
 - [My LinkedIn] https://www.linkedin.com/in/rivaldo-myftaraj-5b32801b8/
